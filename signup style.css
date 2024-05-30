@@ -1,0 +1,41 @@
+body{
+    font-family: sans-serif;
+    height: 100vh;
+    background: #c0f0d1;
+    width: 100%;
+}
+
+.signup{
+    width: 360px;
+    height:500px;
+    margin: auto;
+    background: white;
+    border-radius: 3px;
+}
+
+.login{
+    width: 360px;
+    height:320px;
+    margin: auto;
+    background: rgb(155, 221, 245);
+    border-radius: 3px;
+}
+
+h1{
+    text-align:center;
+}
+
+h4{
+    text-align: center;
+    padding-top: 15px;
+}
+
+form{
+    width:300px;
+    margin-left: 20px;
+}
+form label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
